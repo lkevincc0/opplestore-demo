@@ -1,0 +1,22 @@
+图片资源指南（青绿色主题）
+=======================
+
+[前面的内容保持不变，只更新文件结构部分]
+
+文件结构：
+project/
+├── assets/
+│   ├── images/
+│   │   ├── brand-logo.svg
+│   │   ├── hero-background.jpg
+│   │   ├── hero-background.webp
+│   │   ├── product-image.png
+│   │   ├── product-image.webp
+│   │   └── geometric-shapes.svg
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── script.js
+└── index.html
+
+[其余内容保持不变] 
